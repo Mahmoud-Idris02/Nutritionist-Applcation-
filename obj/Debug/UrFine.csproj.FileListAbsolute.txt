@@ -1,0 +1,40 @@
+D:\UrFine\bin\Debug\UrFine.exe.config
+D:\UrFine\bin\Debug\UrFine.exe
+D:\UrFine\bin\Debug\UrFine.pdb
+D:\UrFine\obj\Debug\UrFine.csproj.SuggestedBindingRedirects.cache
+D:\UrFine\obj\Debug\UrFine.Login.resources
+D:\UrFine\obj\Debug\UrFine.Start.resources
+D:\UrFine\obj\Debug\UrFine.Properties.Resources.resources
+D:\UrFine\obj\Debug\UrFine.csproj.GenerateResource.cache
+D:\UrFine\obj\Debug\UrFine.csproj.CoreCompileInputs.cache
+D:\UrFine\obj\Debug\UrFine.exe
+D:\UrFine\obj\Debug\UrFine.pdb
+D:\UrFine\obj\Debug\UrFine.MainForm.resources
+D:\UrFine\obj\Debug\UrFine.newClient.resources
+D:\UrFine\obj\Debug\UrFine.progressList.resources
+D:\UrFine\obj\Debug\UrFine.FoodFrequancyList.resources
+D:\UrFine\obj\Debug\UrFine.changePassword.resources
+D:\UrFine\obj\Debug\UrFine.InsertFoodFrequancy.resources
+D:\C# projects\UrFine\bin\Debug\UrFine.exe.config
+D:\C# projects\UrFine\bin\Debug\UrFine.exe
+D:\C# projects\UrFine\bin\Debug\UrFine.pdb
+D:\C# projects\UrFine\obj\Debug\UrFine.csproj.AssemblyReference.cache
+D:\C# projects\UrFine\obj\Debug\UrFine.csproj.SuggestedBindingRedirects.cache
+D:\C# projects\UrFine\obj\Debug\UrFine.changePassword.resources
+D:\C# projects\UrFine\obj\Debug\UrFine.FoodFrequancyList.resources
+D:\C# projects\UrFine\obj\Debug\UrFine.Home.resources
+D:\C# projects\UrFine\obj\Debug\UrFine.InsertFoodFrequancy.resources
+D:\C# projects\UrFine\obj\Debug\UrFine.Login.resources
+D:\C# projects\UrFine\obj\Debug\UrFine.MainForm.resources
+D:\C# projects\UrFine\obj\Debug\UrFine.newClient.resources
+D:\C# projects\UrFine\obj\Debug\UrFine.progressList.resources
+D:\C# projects\UrFine\obj\Debug\UrFine.Start.resources
+D:\C# projects\UrFine\obj\Debug\UrFine.Properties.Resources.resources
+D:\C# projects\UrFine\obj\Debug\UrFine.csproj.GenerateResource.cache
+D:\C# projects\UrFine\obj\Debug\UrFine.csproj.CoreCompileInputs.cache
+D:\C# projects\UrFine\obj\Debug\UrFine.exe
+D:\C# projects\UrFine\obj\Debug\UrFine.pdb
+D:\UrFine\obj\Debug\UrFine.Home.resources
+D:\UrFine\bin\Debug\Data\UrFine.mdf
+D:\UrFine\bin\Debug\Data\UrFine_log.ldf
+D:\UrFine\obj\Debug\UrFine.csproj.AssemblyReference.cache

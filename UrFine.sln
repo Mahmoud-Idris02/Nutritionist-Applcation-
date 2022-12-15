@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UrFine", "UrFine.csproj", "{321B84C4-88BD-4C9B-B043-2DCAA71D00B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{321B84C4-88BD-4C9B-B043-2DCAA71D00B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{321B84C4-88BD-4C9B-B043-2DCAA71D00B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{321B84C4-88BD-4C9B-B043-2DCAA71D00B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{321B84C4-88BD-4C9B-B043-2DCAA71D00B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12535DE8-A895-4BD8-A7DD-F8DE4CC243C0}
+	EndGlobalSection
+EndGlobal
