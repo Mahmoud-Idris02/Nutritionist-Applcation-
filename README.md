@@ -27,7 +27,7 @@ and other personal informations to help the user to track the progress of the cl
 <img  src = "https://github.com/Mahmoud-UL/Nutritionist-Applcation-/blob/master/Screenshots/Screenshots/change%20password%20.png" width ="150">
 
 
-<div>
+</div>
 
 
 ### App features :
