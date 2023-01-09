@@ -18,7 +18,7 @@ and other personal informations to help the user to track the progress of the cl
 
 ## Sammples
 <div>
-<img  src = "https://github.com/Mahmoud-UL/Nutritionist-Applcation-/blob/master/Screenshots/Screenshots/Home.png" >
+<img  src = "https://github.com/Mahmoud-UL/Nutritionist-Applcation-/blob/master/Screenshots/Screenshots/Home.png" width ="150">
 <img  src = "https://github.com/Mahmoud-UL/Nutritionist-Applcation-/blob/master/Screenshots/Screenshots/clients%20List.png" width ="150">
 <img  src = "https://github.com/Mahmoud-UL/Nutritionist-Applcation-/blob/master/Screenshots/Screenshots/insert%20client.png" width ="150">
 <img  src = "https://github.com/Mahmoud-UL/Nutritionist-Applcation-/blob/master/Screenshots/Screenshots/loginpage%20.png" width ="150">
